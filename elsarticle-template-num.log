@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.29 (MiKTeX 26.2) (preloaded format=pdflatex 2026.3.9)  9 MAR 2026 23:28
+This is pdfTeX, Version 3.141592653-2.6-1.40.29 (MiKTeX 26.2) (preloaded format=pdflatex 2026.3.9)  10 MAR 2026 17:09
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**c:/Users/rbriseno/Documents/RAMCI-artículo/elsarticle-template-num.tex
-(c:/Users/rbriseno/Documents/RAMCI-artículo/elsarticle-template-num.tex
+**c:/Users/rbriseno/Documents/RAMCI-paper/elsarticle-template-num.tex
+(c:/Users/rbriseno/Documents/RAMCI-paper/elsarticle-template-num.tex
 LaTeX2e <2025-11-01>
 L3 programming layer <2026-01-19>
 (C:\Program Files\MiKTeX\tex/latex/elsarticle\elsarticle.cls
@@ -434,80 +434,86 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 
 
 {C:/Users/rbriseno/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}] [2] [3]
-Overfull \hbox (5.55185pt too wide) in paragraph at lines 249--250
+Overfull \hbox (5.55185pt too wide) in paragraph at lines 253--254
 \T1/cmr/m/n/12 this frame-work, cy-clist ex-po-sure, par-tic-u-larly bi-cy-cle flow vol-ume, has emerged
  []
 
 [4] [5] [6]
-Overfull \hbox (22.27432pt too wide) in paragraph at lines 283--284
+Overfull \hbox (22.27432pt too wide) in paragraph at lines 287--288
 []\T1/cmtt/m/n/12 Day \T1/cmr/m/n/12 that can con-tain the classes \T1/cmtt/m/n/12 Monday, Thursday, Wednesday Tuesday,
  []
 
 
-Overfull \hbox (4.7675pt too wide) in paragraph at lines 284--285
+Overfull \hbox (4.7675pt too wide) in paragraph at lines 288--289
 \T1/cmr/m/n/12 de-fined: \T1/cmtt/m/n/12 0:00 to 05:59, 06:00 to 07:59, 08:00 to 09:59, 10:00
  []
 
 
-Overfull \hbox (28.29785pt too wide) in paragraph at lines 284--285
+Overfull \hbox (28.29785pt too wide) in paragraph at lines 288--289
 \T1/cmtt/m/n/12 to 11:59, 12:00 to 13:59, 14:00 to 15:59, 16:00 to 17:59, 18:00
  []
 
-
-Overfull \hbox (12.6003pt too wide) in paragraph at lines 288--289
+[7]
+Overfull \hbox (12.6003pt too wide) in paragraph at lines 292--293
 []\T1/cmtt/m/n/12 Vehicle-type \T1/cmr/m/n/12 with the classes \T1/cmtt/m/n/12 Passenger-vehicle, Private-vehicle,
  []
 
-[7] [8] [9]
-<rutas.PNG, id=50, 675.27281pt x 383.93437pt>
+[8] [9]
+<rutas.PNG, id=43, 675.27281pt x 383.93437pt>
 File: rutas.PNG Graphic file (type png)
 <use rutas.PNG>
-Package pdftex.def Info: rutas.PNG  used on input line 351.
+Package pdftex.def Info: rutas.PNG  used on input line 355.
 (pdftex.def)             Requested size: 390.0pt x 221.74475pt.
-<calor.PNG, id=52, 679.78969pt x 376.40625pt>
-File: calor.PNG Graphic file (type png)
-<use calor.PNG>
-Package pdftex.def Info: calor.PNG  used on input line 358.
-(pdftex.def)             Requested size: 390.0pt x 215.94371pt.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-<ciclistas.PNG, id=53, 648.17157pt x 364.36125pt>
+<calor.PNG, id=45, 679.78969pt x 376.40625pt>
+File: calor.PNG Graphic file (type png)
+<use calor.PNG>
+Package pdftex.def Info: calor.PNG  used on input line 362.
+(pdftex.def)             Requested size: 390.0pt x 215.94371pt.
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<ciclistas.PNG, id=46, 648.17157pt x 364.36125pt>
 File: ciclistas.PNG Graphic file (type png)
 <use ciclistas.PNG>
-Package pdftex.def Info: ciclistas.PNG  used on input line 365.
+Package pdftex.def Info: ciclistas.PNG  used on input line 369.
 (pdftex.def)             Requested size: 390.0pt x 219.23555pt.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[10 <./rutas.PNG>] [11 <./calor.PNG> <./ciclistas.PNG>] [12] [13] [14] [15]
+[10]
+Overfull \vbox (11.18846pt too high) has occurred while \output is active []
+
+ [11 <./rutas.PNG> <./calor.PNG>] [12 <./ciclistas.PNG>] [13] [14] [15]
 <nomogram.png, id=77, 746.79pt x 422.07687pt>
 File: nomogram.png Graphic file (type png)
 <use nomogram.png>
-Package pdftex.def Info: nomogram.png  used on input line 457.
+Package pdftex.def Info: nomogram.png  used on input line 461.
 (pdftex.def)             Requested size: 390.0pt x 220.42152pt.
- [16 <./nomogram.png>]
-<Dinamico.PNG, id=82, 912.40875pt x 394.97563pt>
-File: Dinamico.PNG Graphic file (type png)
-<use Dinamico.PNG>
-Package pdftex.def Info: Dinamico.PNG  used on input line 476.
-(pdftex.def)             Requested size: 390.0pt x 168.8237pt.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[17] [18 <./Dinamico.PNG>] (elsarticle-template-num.bbl [19] [20]
+[16] [17 <./nomogram.png>]
+<Dinamico.PNG, id=85, 912.40875pt x 394.97563pt>
+File: Dinamico.PNG Graphic file (type png)
+<use Dinamico.PNG>
+Package pdftex.def Info: Dinamico.PNG  used on input line 480.
+(pdftex.def)             Requested size: 390.0pt x 168.8237pt.
+ [18 <./Dinamico.PNG>] (elsarticle-template-num.bbl [19] [20] [21]
 Underfull \hbox (badness 3701) in paragraph at lines 152--160
 []\T1/cmr/m/n/12 A. Scarano, M. Rella Ric-cardi, F. Mau-riello, C. D'Agostino,
  []
 
-[21]
+
 Underfull \hbox (badness 1406) in paragraph at lines 202--210
 \T1/cmr/m/n/12 ber: 2 Pub-lisher: Mul-ti-dis-ci-plinary Dig-i-tal Pub-lish-ing In-sti-tute.
  []
 
-) [22] (elsarticle-template-num.aux)
+[22]) [23] (elsarticle-template-num.aux)
  ***********
 LaTeX2e <2025-11-01>
 L3 programming layer <2026-01-19>
@@ -515,16 +521,16 @@ L3 programming layer <2026-01-19>
  ) 
 Here is how much of TeX's memory you used:
  9043 strings out of 467867
- 137182 string characters out of 5428393
- 561593 words of memory out of 5000000
+ 137146 string characters out of 5428393
+ 583594 words of memory out of 5000000
  37780 multiletter control sequences out of 15000+600000
  642769 words of font info for 80 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 72i,9n,79p,1614b,1589s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 72i,9n,79p,1610b,1022s stack positions out of 10000i,1000n,20000p,200000b,200000s
  <C:\Users\rbriseno\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecit1200.pk> <C:\Users\rbriseno\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ectt1200.pk> <C:\Users\rbriseno\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1200.pk> <C:\Users\rbriseno\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecti1200.pk> <C:\Users\rbriseno\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ectt1000.pk> <C:\Users\rbriseno\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1000.pk> <C:\Users\rbriseno\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1200.pk> <C:\Users\rbriseno\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecti1000.pk> <C:\Users\rbriseno\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecti0700.pk> <C:\Users\rbriseno\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm0800.pk> <C:\Users\rbriseno\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1200.pk> <C:\Users\rbriseno\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1728.pk><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr6.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy7.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy8.pfb>
-Output written on elsarticle-template-num.pdf (22 pages, 3650892 bytes).
+Output written on elsarticle-template-num.pdf (23 pages, 3661147 bytes).
 PDF statistics:
- 624 PDF objects out of 1000 (max. 8388607)
+ 627 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  26 words of extra memory for PDF output out of 10000 (max. 10000000)
 
