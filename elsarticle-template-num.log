@@ -1,0 +1,530 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.29 (MiKTeX 26.2) (preloaded format=pdflatex 2026.3.9)  9 MAR 2026 23:28
+entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**c:/Users/rbriseno/Documents/RAMCI-artículo/elsarticle-template-num.tex
+(c:/Users/rbriseno/Documents/RAMCI-artículo/elsarticle-template-num.tex
+LaTeX2e <2025-11-01>
+L3 programming layer <2026-01-19>
+(C:\Program Files\MiKTeX\tex/latex/elsarticle\elsarticle.cls
+Document Class: elsarticle 2026/01/09, 3.5: Elsevier Ltd
+(C:\Program Files\MiKTeX\tex/latex/base\fontenc.sty
+Package: fontenc 2025/07/18 v2.1d Standard LaTeX package
+) (C:\Program Files\MiKTeX\tex/latex/l3kernel\expl3.sty
+Package: expl3 2026-01-19 L3 programming layer (loader) 
+ (C:\Program Files\MiKTeX\tex/latex/l3backend\l3backend-pdftex.def
+File: l3backend-pdftex.def 2025-10-09 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count275
+)) (C:\Program Files\MiKTeX\tex/latex/l3packages/xparse\xparse.sty
+Package: xparse 2025-10-09 L3 Experimental document command parser
+) (C:\Program Files\MiKTeX\tex/latex/etoolbox\etoolbox.sty
+Package: etoolbox 2025/10/02 v2.5m e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count276
+)
+\@bls=\dimen148
+ (C:\Program Files\MiKTeX\tex/latex/base\article.cls
+Document Class: article 2025/01/22 v1.4n Standard LaTeX document class
+(C:\Program Files\MiKTeX\tex/latex/base\size12.clo
+File: size12.clo 2025/01/22 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count277
+\c@section=\count278
+\c@subsection=\count279
+\c@subsubsection=\count280
+\c@paragraph=\count281
+\c@subparagraph=\count282
+\c@figure=\count283
+\c@table=\count284
+\abovecaptionskip=\skip49
+\belowcaptionskip=\skip50
+\bibindent=\dimen149
+) (C:\Program Files\MiKTeX\tex/latex/graphics\graphicx.sty
+Package: graphicx 2024/12/31 v1.2e Enhanced LaTeX Graphics (DPC,SPQR)
+ (C:\Program Files\MiKTeX\tex/latex/graphics\keyval.sty
+Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
+\KV@toks@=\toks17
+) (C:\Program Files\MiKTeX\tex/latex/graphics\graphics.sty
+Package: graphics 2024/08/06 v1.4g Standard LaTeX Graphics (DPC,SPQR)
+ (C:\Program Files\MiKTeX\tex/latex/graphics\trig.sty
+Package: trig 2023/12/02 v1.11 sin cos tan (DPC)
+) (C:\Program Files\MiKTeX\tex/latex/graphics-cfg\graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 106.
+ (C:\Program Files\MiKTeX\tex/latex/graphics-def\pdftex.def
+File: pdftex.def 2025/09/29 v1.2d Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen150
+\Gin@req@width=\dimen151
+)
+\c@tnote=\count285
+\c@fnote=\count286
+\c@cnote=\count287
+\c@ead=\count288
+\c@elsarticle@author=\count289
+\@eadauthor=\toks18
+\c@affn=\count290
+\absbox=\box53
+\elsarticlehighlightsbox=\box54
+\elsarticlegrabsbox=\box55
+\keybox=\box56
+\Columnwidth=\dimen152
+\space@left=\dimen153
+\els@boxa=\box57
+\els@boxb=\box58
+\leftMargin=\dimen154
+\@enLab=\toks19
+\@sep=\skip51
+\@@sep=\skip52
+ (elsarticle-template-num.spl) (C:\Program Files\MiKTeX\tex/latex/natbib\natbib.sty
+Package: natbib 2010/09/13 8.31b (PWD, AO)
+\bibhang=\skip53
+\bibsep=\skip54
+LaTeX Info: Redefining \cite on input line 694.
+\c@NAT@ctr=\count291
+)
+\splwrite=\write3
+\openout3 = `elsarticle-template-num.spl'.
+
+\appnamewidth=\dimen155
+) (C:\Program Files\MiKTeX\tex/latex/amsfonts\amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+ (C:\Program Files\MiKTeX\tex/latex/amsfonts\amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\@emptytoks=\toks20
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+)) (C:\Program Files\MiKTeX\tex/latex/amsmath\amsmath.sty
+Package: amsmath 2025/07/09 v2.17z AMS math features
+\@mathmargin=\skip55
+
+For additional information on amsmath, use the `?' option.
+(C:\Program Files\MiKTeX\tex/latex/amsmath\amstext.sty
+Package: amstext 2024/11/17 v2.01 AMS text
+ (C:\Program Files\MiKTeX\tex/latex/amsmath\amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks21
+\ex@=\dimen156
+)) (C:\Program Files\MiKTeX\tex/latex/amsmath\amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen157
+) (C:\Program Files\MiKTeX\tex/latex/amsmath\amsopn.sty
+Package: amsopn 2022/04/08 v2.04 operator names
+)
+\inf@bad=\count292
+LaTeX Info: Redefining \frac on input line 233.
+\uproot@=\count293
+\leftroot@=\count294
+LaTeX Info: Redefining \overline on input line 398.
+LaTeX Info: Redefining \colon on input line 409.
+\classnum@=\count295
+\DOTSCASE@=\count296
+LaTeX Info: Redefining \ldots on input line 495.
+LaTeX Info: Redefining \dots on input line 498.
+LaTeX Info: Redefining \cdots on input line 619.
+\Mathstrutbox@=\box59
+\strutbox@=\box60
+LaTeX Info: Redefining \big on input line 721.
+LaTeX Info: Redefining \Big on input line 722.
+LaTeX Info: Redefining \bigg on input line 723.
+LaTeX Info: Redefining \Bigg on input line 724.
+\big@size=\dimen158
+LaTeX Font Info:    Redeclaring font encoding OML on input line 742.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 743.
+\macc@depth=\count297
+LaTeX Info: Redefining \bmod on input line 904.
+LaTeX Info: Redefining \pmod on input line 909.
+LaTeX Info: Redefining \smash on input line 939.
+LaTeX Info: Redefining \relbar on input line 969.
+LaTeX Info: Redefining \Relbar on input line 970.
+\c@MaxMatrixCols=\count298
+\dotsspace@=\muskip17
+\c@parentequation=\count299
+\dspbrk@lvl=\count300
+\tag@help=\toks22
+\row@=\count301
+\column@=\count302
+\maxfields@=\count303
+\andhelp@=\toks23
+\eqnshift@=\dimen159
+\alignsep@=\dimen160
+\tagshift@=\dimen161
+\tagwidth@=\dimen162
+\totwidth@=\dimen163
+\lineht@=\dimen164
+\@envbody=\toks24
+\multlinegap=\skip56
+\multlinetaggap=\skip57
+\mathdisplay@stack=\toks25
+LaTeX Info: Redefining \[ on input line 2950.
+LaTeX Info: Redefining \] on input line 2951.
+) (C:\Program Files\MiKTeX\tex/latex/algorithms\algorithmic.sty
+Package: algorithmic 2009/08/24 v0.1 Document Style `algorithmic'
+ (C:\Program Files\MiKTeX\tex/latex/base\ifthen.sty
+Package: ifthen 2024/03/16 v1.1e Standard LaTeX ifthen package (DPC)
+)
+\c@ALC@unique=\count304
+\c@ALC@line=\count305
+\c@ALC@rem=\count306
+\c@ALC@depth=\count307
+\ALC@tlm=\skip58
+\algorithmicindent=\skip59
+) (C:\Program Files\MiKTeX\tex/latex/base\textcomp.sty
+Package: textcomp 2024/04/24 v2.1b Standard LaTeX package
+) (C:\Program Files\MiKTeX\tex/latex/caption\caption.sty
+Package: caption 2023/08/05 v3.6o Customizing captions (AR)
+ (C:\Program Files\MiKTeX\tex/latex/caption\caption3.sty
+Package: caption3 2023/07/31 v2.4d caption3 kernel (AR)
+\caption@tempdima=\dimen165
+\captionmargin=\dimen166
+\caption@leftmargin=\dimen167
+\caption@rightmargin=\dimen168
+\caption@width=\dimen169
+\caption@indent=\dimen170
+\caption@parindent=\dimen171
+\caption@hangindent=\dimen172
+Package caption Info: elsarticle document class detected.
+ (C:\Program Files\MiKTeX\tex/latex/caption\caption-elsarticle.sto
+File: caption-elsarticle.sto 2020/08/22 v2.0 Adaption of the caption package to the elsarticle document class (AR)
+))
+\c@caption@flags=\count308
+\c@continuedfloat=\count309
+) (C:\Program Files\MiKTeX\tex/latex/listings\listings.sty
+\lst@mode=\count310
+\lst@gtempboxa=\box61
+\lst@token=\toks26
+\lst@length=\count311
+\lst@currlwidth=\dimen173
+\lst@column=\count312
+\lst@pos=\count313
+\lst@lostspace=\dimen174
+\lst@width=\dimen175
+\lst@newlines=\count314
+\lst@lineno=\count315
+\lst@maxwidth=\dimen176
+ (C:\Program Files\MiKTeX\tex/latex/listings\lstpatch.sty
+File: lstpatch.sty 2025/11/14 1.11b (Carsten Heinz)
+) (C:\Program Files\MiKTeX\tex/latex/listings\lstmisc.sty
+File: lstmisc.sty 2025/11/14 1.11b (Carsten Heinz)
+\c@lstnumber=\count316
+\lst@skipnumbers=\count317
+\lst@framebox=\box62
+) (C:\Program Files\MiKTeX\tex/latex/listings\listings.cfg
+File: listings.cfg 2025/11/14 1.11b listings configuration
+))
+Package: listings 2025/11/14 1.11b (Carsten Heinz)
+
+==> First Aid for listings.sty no longer applied!
+    Expected:
+        2024/09/23 1.10c (Carsten Heinz)
+    but found:
+        2025/11/14 1.11b (Carsten Heinz)
+    so I'm assuming it got fixed.
+(C:\Program Files\MiKTeX\tex/latex/float\float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count318
+\float@exts=\toks27
+\float@box=\box63
+\@float@everytoks=\toks28
+\@floatcapt=\box64
+) (C:\Program Files\MiKTeX\tex/latex/tools\longtable.sty
+Package: longtable 2025-10-13 v4.24 Multi-page Table package (DPC)
+\LTleft=\skip60
+\LTright=\skip61
+\LTpre=\skip62
+\LTpost=\skip63
+\LTchunksize=\count319
+\LTcapwidth=\dimen177
+\LT@head=\box65
+\LT@firsthead=\box66
+\LT@foot=\box67
+\LT@lastfoot=\box68
+\LT@gbox=\box69
+\LT@cols=\count320
+\LT@rows=\count321
+\c@LT@tables=\count322
+\c@LT@chunks=\count323
+\LT@p@ftn=\toks29
+) (C:\Program Files\MiKTeX\tex/latex/booktabs\booktabs.sty
+Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
+\heavyrulewidth=\dimen178
+\lightrulewidth=\dimen179
+\cmidrulewidth=\dimen180
+\belowrulesep=\dimen181
+\belowbottomsep=\dimen182
+\aboverulesep=\dimen183
+\abovetopsep=\dimen184
+\cmidrulesep=\dimen185
+\cmidrulekern=\dimen186
+\defaultaddspace=\dimen187
+\@cmidla=\count324
+\@cmidlb=\count325
+\@aboverulesep=\dimen188
+\@belowrulesep=\dimen189
+\@thisruleclass=\count326
+\@lastruleclass=\count327
+\@thisrulewidth=\dimen190
+) (C:\Program Files\MiKTeX\tex/latex/graphics\lscape.sty
+Package: lscape 2020/05/28 v3.02 Landscape Pages (DPC)
+) (C:\Program Files\MiKTeX\tex/latex/supertabular\supertabular.sty
+Package: supertabular 2025/06/26 v4.2d the supertabular environment
+\c@tracingst=\count328
+\ST@wd=\dimen191
+\ST@rightskip=\skip64
+\ST@leftskip=\skip65
+\ST@parfillskip=\skip66
+\ST@pageleft=\dimen192
+\ST@headht=\dimen193
+\ST@tailht=\dimen194
+\ST@pagesofar=\dimen195
+\ST@pboxht=\dimen196
+\ST@rowht=\dimen197
+\ST@prevht=\dimen198
+\ST@toadd=\dimen199
+\ST@dimen=\dimen256
+\ST@pbox=\box70
+) (C:\Program Files\MiKTeX\tex/latex/graphics\rotating.sty
+Package: rotating 2025/01/14 v2.16e rotated objects in LaTeX
+\c@r@tfl@t=\count329
+\rotFPtop=\skip67
+\rotFPbot=\skip68
+\rot@float@box=\box71
+\rot@mess@toks=\toks30
+) (C:\Program Files\MiKTeX\tex/latex/setspace\setspace.sty
+Package: setspace 2022/12/04 v6.7b set line spacing
+) (C:\Program Files\MiKTeX\tex/latex/graphics\epsfig.sty
+Package: epsfig 2024/01/14 v1.7b (e)psfig emulation (SPQR)
+\epsfxsize=\dimen257
+\epsfysize=\dimen258
+) (C:\Program Files\MiKTeX\tex/latex/caption\subcaption.sty
+Package: subcaption 2023/07/28 v1.6b Sub-captions (AR)
+Package caption Info: New subtype `subfigure' on input line 238.
+\c@subfigure=\count330
+Package caption Info: New subtype `subtable' on input line 238.
+\c@subtable=\count331
+) (C:\Program Files\MiKTeX\tex/latex/xurl\xurl.sty
+Package: xurl 2022/01/09 v 0.10 modify URL breaks
+ (C:\Program Files\MiKTeX\tex/latex/url\url.sty
+\Urlmuskip=\muskip18
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)) (C:\Program Files\MiKTeX\tex/latex/tools\tabularx.sty
+Package: tabularx 2023/12/11 v2.12a `tabularx' package (DPC)
+ (C:\Program Files\MiKTeX\tex/latex/tools\array.sty
+Package: array 2025/09/25 v2.6n Tabular extension package (FMi)
+\col@sep=\dimen259
+\ar@mcellbox=\box72
+\extrarowheight=\dimen260
+\NC@list=\toks31
+\extratabsurround=\skip69
+\backup@length=\skip70
+\ar@cellbox=\box73
+)
+\TX@col@width=\dimen261
+\TX@old@table=\dimen262
+\TX@old@col=\dimen263
+\TX@target=\dimen264
+\TX@delta=\dimen265
+\TX@cols=\count332
+\TX@ftn=\toks32
+) (C:\Program Files\MiKTeX\tex/generic/soul\soul.sty
+Package: soul 2023-06-14 v3.1 Permit use of UTF-8 characters in soul (HO)
+ (C:\Program Files\MiKTeX\tex/generic/soul\soul-ori.sty
+Package: soul-ori 2023-06-14 v3.1 letterspacing/underlining (mf)
+\SOUL@word=\toks33
+\SOUL@lasttoken=\toks34
+\SOUL@syllable=\toks35
+\SOUL@cmds=\toks36
+\SOUL@buffer=\toks37
+\SOUL@token=\toks38
+\SOUL@syllgoal=\dimen266
+\SOUL@syllwidth=\dimen267
+\SOUL@charkern=\dimen268
+\SOUL@hyphkern=\dimen269
+\SOUL@dimen=\dimen270
+\SOUL@dimeni=\dimen271
+\SOUL@minus=\count333
+\SOUL@comma=\count334
+\SOUL@apo=\count335
+\SOUL@grave=\count336
+\SOUL@spaceskip=\skip71
+\SOUL@ttwidth=\dimen272
+\SOUL@uldp=\dimen273
+\SOUL@ulht=\dimen274
+) (C:\Program Files\MiKTeX\tex/generic/infwarerr\infwarerr.sty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+) (C:\Program Files\MiKTeX\tex/generic/etexcmds\etexcmds.sty
+Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
+ (C:\Program Files\MiKTeX\tex/generic/iftex\iftex.sty
+Package: iftex 2024/12/12 v1.0g TeX engine tests
+))) (C:\Program Files\MiKTeX\tex/latex/xcolor\xcolor.sty
+Package: xcolor 2024/09/29 v3.02 LaTeX color extensions (UK)
+ (C:\Program Files\MiKTeX\tex/latex/graphics-cfg\color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 274.
+ (C:\Program Files\MiKTeX\tex/latex/graphics\mathcolor.ltx)
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1349.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1353.
+Package xcolor Info: Model `RGB' extended on input line 1365.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1367.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1370.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1371.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1372.
+) (elsarticle-template-num.aux)
+\openout1 = `elsarticle-template-num.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 97.
+LaTeX Font Info:    ... okay on input line 97.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 97.
+LaTeX Font Info:    ... okay on input line 97.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 97.
+LaTeX Font Info:    ... okay on input line 97.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 97.
+LaTeX Font Info:    ... okay on input line 97.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 97.
+LaTeX Font Info:    ... okay on input line 97.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 97.
+LaTeX Font Info:    ... okay on input line 97.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 97.
+LaTeX Font Info:    ... okay on input line 97.
+ (C:\Program Files\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count337
+\scratchdimen=\dimen275
+\scratchbox=\box74
+\nofMPsegments=\count338
+\nofMParguments=\count339
+\everyMPshowfont=\toks39
+\MPscratchCnt=\count340
+\MPscratchDim=\dimen276
+\MPnumerator=\count341
+\makeMPintoPDFobject=\count342
+\everyMPtoPDFconversion=\toks40
+) (C:\Program Files\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
+ (C:\Program Files\MiKTeX\tex/latex/00miktex\epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
+))
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: float package is loaded.
+Package caption Info: listings package is loaded.
+Package caption Info: longtable package is loaded.
+ (C:\Program Files\MiKTeX\tex/latex/caption\ltcaption.sty
+Package: ltcaption 2021/01/08 v1.4c longtable captions (AR)
+)
+Package caption Info: rotating package is loaded.
+Package caption Info: supertabular package is loaded.
+Package caption Info: End \AtBeginDocument code.
+\c@lstlisting=\count343
+LaTeX Font Info:    Trying to load font information for U+msa on input line 220.
+ (C:\Program Files\MiKTeX\tex/latex/amsfonts\umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 220.
+ (C:\Program Files\MiKTeX\tex/latex/amsfonts\umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+) [1
+
+
+{C:/Users/rbriseno/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}] [2] [3]
+Overfull \hbox (5.55185pt too wide) in paragraph at lines 249--250
+\T1/cmr/m/n/12 this frame-work, cy-clist ex-po-sure, par-tic-u-larly bi-cy-cle flow vol-ume, has emerged
+ []
+
+[4] [5] [6]
+Overfull \hbox (22.27432pt too wide) in paragraph at lines 283--284
+[]\T1/cmtt/m/n/12 Day \T1/cmr/m/n/12 that can con-tain the classes \T1/cmtt/m/n/12 Monday, Thursday, Wednesday Tuesday,
+ []
+
+
+Overfull \hbox (4.7675pt too wide) in paragraph at lines 284--285
+\T1/cmr/m/n/12 de-fined: \T1/cmtt/m/n/12 0:00 to 05:59, 06:00 to 07:59, 08:00 to 09:59, 10:00
+ []
+
+
+Overfull \hbox (28.29785pt too wide) in paragraph at lines 284--285
+\T1/cmtt/m/n/12 to 11:59, 12:00 to 13:59, 14:00 to 15:59, 16:00 to 17:59, 18:00
+ []
+
+
+Overfull \hbox (12.6003pt too wide) in paragraph at lines 288--289
+[]\T1/cmtt/m/n/12 Vehicle-type \T1/cmr/m/n/12 with the classes \T1/cmtt/m/n/12 Passenger-vehicle, Private-vehicle,
+ []
+
+[7] [8] [9]
+<rutas.PNG, id=50, 675.27281pt x 383.93437pt>
+File: rutas.PNG Graphic file (type png)
+<use rutas.PNG>
+Package pdftex.def Info: rutas.PNG  used on input line 351.
+(pdftex.def)             Requested size: 390.0pt x 221.74475pt.
+<calor.PNG, id=52, 679.78969pt x 376.40625pt>
+File: calor.PNG Graphic file (type png)
+<use calor.PNG>
+Package pdftex.def Info: calor.PNG  used on input line 358.
+(pdftex.def)             Requested size: 390.0pt x 215.94371pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<ciclistas.PNG, id=53, 648.17157pt x 364.36125pt>
+File: ciclistas.PNG Graphic file (type png)
+<use ciclistas.PNG>
+Package pdftex.def Info: ciclistas.PNG  used on input line 365.
+(pdftex.def)             Requested size: 390.0pt x 219.23555pt.
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[10 <./rutas.PNG>] [11 <./calor.PNG> <./ciclistas.PNG>] [12] [13] [14] [15]
+<nomogram.png, id=77, 746.79pt x 422.07687pt>
+File: nomogram.png Graphic file (type png)
+<use nomogram.png>
+Package pdftex.def Info: nomogram.png  used on input line 457.
+(pdftex.def)             Requested size: 390.0pt x 220.42152pt.
+ [16 <./nomogram.png>]
+<Dinamico.PNG, id=82, 912.40875pt x 394.97563pt>
+File: Dinamico.PNG Graphic file (type png)
+<use Dinamico.PNG>
+Package pdftex.def Info: Dinamico.PNG  used on input line 476.
+(pdftex.def)             Requested size: 390.0pt x 168.8237pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[17] [18 <./Dinamico.PNG>] (elsarticle-template-num.bbl [19] [20]
+Underfull \hbox (badness 3701) in paragraph at lines 152--160
+[]\T1/cmr/m/n/12 A. Scarano, M. Rella Ric-cardi, F. Mau-riello, C. D'Agostino,
+ []
+
+[21]
+Underfull \hbox (badness 1406) in paragraph at lines 202--210
+\T1/cmr/m/n/12 ber: 2 Pub-lisher: Mul-ti-dis-ci-plinary Dig-i-tal Pub-lish-ing In-sti-tute.
+ []
+
+) [22] (elsarticle-template-num.aux)
+ ***********
+LaTeX2e <2025-11-01>
+L3 programming layer <2026-01-19>
+ ***********
+ ) 
+Here is how much of TeX's memory you used:
+ 9043 strings out of 467867
+ 137182 string characters out of 5428393
+ 561593 words of memory out of 5000000
+ 37780 multiletter control sequences out of 15000+600000
+ 642769 words of font info for 80 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 72i,9n,79p,1614b,1589s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ <C:\Users\rbriseno\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecit1200.pk> <C:\Users\rbriseno\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ectt1200.pk> <C:\Users\rbriseno\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1200.pk> <C:\Users\rbriseno\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecti1200.pk> <C:\Users\rbriseno\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ectt1000.pk> <C:\Users\rbriseno\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1000.pk> <C:\Users\rbriseno\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1200.pk> <C:\Users\rbriseno\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecti1000.pk> <C:\Users\rbriseno\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecti0700.pk> <C:\Users\rbriseno\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm0800.pk> <C:\Users\rbriseno\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1200.pk> <C:\Users\rbriseno\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1728.pk><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr6.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy7.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy8.pfb>
+Output written on elsarticle-template-num.pdf (22 pages, 3650892 bytes).
+PDF statistics:
+ 624 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 26 words of extra memory for PDF output out of 10000 (max. 10000000)
+

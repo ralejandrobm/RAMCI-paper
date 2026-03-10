@@ -1,0 +1,59 @@
+This is BibTeX, Version 0.99e
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: elsarticle-template-num.aux
+Reallocating 'name_of_file' (item size: 1) to 15 items.
+The style file: elsarticle-num.bst
+Reallocating 'name_of_file' (item size: 1) to 4 items.
+Database file #1: bib.bib
+Warning--empty journal in mathers_updated_nodate
+Warning--empty year in mathers_updated_nodate
+Warning--empty year in jalisco_anuncia_nodate
+Warning--empty year in noauthor_datos_nodate
+Warning--empty year in iieg_mapa_nodate
+Warning--empty year in noauthor_mibici_nodate
+Warning--empty year in noauthor_explora_nodate
+Warning--empty year in noauthor_moovit_nodate
+Warning--empty year in noauthor_general_nodate
+Warning--empty year in noauthor_general_nodate-1
+You've used 27 entries,
+            2952 wiz_defined-function locations,
+            840 strings with 11791 characters,
+and the built_in function-call counts, 7361 in all, are:
+= -- 672
+> -- 228
+< -- 0
++ -- 94
+- -- 67
+* -- 599
+:= -- 1008
+add.period$ -- 40
+call.type$ -- 27
+change.case$ -- 29
+chr.to.int$ -- 0
+cite$ -- 37
+duplicate$ -- 245
+empty$ -- 884
+format.name$ -- 80
+if$ -- 1920
+int.to.chr$ -- 0
+int.to.str$ -- 27
+missing$ -- 16
+newline$ -- 128
+num.names$ -- 21
+pop$ -- 194
+preamble$ -- 1
+purify$ -- 0
+quote$ -- 0
+skip$ -- 441
+stack$ -- 0
+substring$ -- 208
+swap$ -- 69
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 0
+warning$ -- 10
+while$ -- 37
+width$ -- 29
+write$ -- 250
+(There were 10 warnings)
