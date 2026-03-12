@@ -6,206 +6,123 @@
   \def\href#1#2{#2} \def\path#1{#1}\fi
 
 \bibitem{who_global_2023}
-WHO,
-  \href{https://www.who.int/publications-detail-redirect/9789240086517}{Global
-  status report on road safety 2023} (Dec. 2023).
+WHO, \href{https://www.who.int/publications-detail-redirect/9789240086517}{Global status report on road safety 2023} (Dec. 2023).
 \newline\urlprefix\url{https://www.who.int/publications-detail-redirect/9789240086517}
 
 \bibitem{pan_american_health_organization_status_2019}
-{PAN AMERICAN HEALTH ORGANIZATION},
-  \href{https://doi.org/10.37774/9789275120868}{{STATUS} {OF} {ROAD} {SAFETY}
-  {IN} {THE} {REGION} {OF} {THE} {AMERICAS}}, PAN AMERICAN HEALTH ORG, S.l.,
-  2019, oCLC: 1176476255.
+{PAN AMERICAN HEALTH ORGANIZATION}, \href{https://doi.org/10.37774/9789275120868}{{STATUS} {OF} {ROAD} {SAFETY} {IN} {THE} {REGION} {OF} {THE} {AMERICAS}}, PAN AMERICAN HEALTH ORG, S.l., 2019, oCLC: 1176476255.
 \newline\urlprefix\url{https://doi.org/10.37774/9789275120868}
 
 \bibitem{mathers_updated_nodate}
-C.~Mathers, {UPDATED} {WHO} {PROJECTIONS} {OF} {MORTALITY} {AND} {CAUSES} {OF}
-  {DEATH} 2016-2060.
+C.~Mathers, {UPDATED} {WHO} {PROJECTIONS} {OF} {MORTALITY} {AND} {CAUSES} {OF} {DEATH} 2016-2060.
 
 \bibitem{mertens_built_2017}
-L.~Mertens, S.~Compernolle, B.~Deforche, J.~D. Mackenbach, J.~Lakerveld,
-  J.~Brug, C.~Roda, T.~Feuillet, J.-M. Oppert, K.~Glonti, H.~Rutter, H.~Bardos,
-  I.~De~Bourdeaudhuij, D.~Van~Dyck,
-  \href{https://www.sciencedirect.com/science/article/pii/S1353829217300679}{Built
-  environmental correlates of cycling for transport across {Europe}}, Health \&
-  Place 44 (2017) 35--42.
-\newblock \href {https://doi.org/10.1016/j.healthplace.2017.01.007}
-  {\path{doi:10.1016/j.healthplace.2017.01.007}}.
+L.~Mertens, S.~Compernolle, B.~Deforche, J.~D. Mackenbach, J.~Lakerveld, J.~Brug, C.~Roda, T.~Feuillet, J.-M. Oppert, K.~Glonti, H.~Rutter, H.~Bardos, I.~De~Bourdeaudhuij, D.~Van~Dyck, \href{https://www.sciencedirect.com/science/article/pii/S1353829217300679}{Built environmental correlates of cycling for transport across {Europe}}, Health \& Place 44 (2017) 35--42.
+\newblock \href {https://doi.org/10.1016/j.healthplace.2017.01.007} {\path{doi:10.1016/j.healthplace.2017.01.007}}.
 \newline\urlprefix\url{https://www.sciencedirect.com/science/article/pii/S1353829217300679}
 
 \bibitem{vega_mas_2020}
-I.~P. Vega,
-  \href{https://udgtv.com/noticias/mas-de-100-km-de-ciclovias-en-guadalajara-motivo-para-celebrar-en-el-dia-mundial-de-la-bicicleta/169961}{Más
-  de 100 km de ciclovías en {Guadalajara}, motivo para “celebrar” en el
-  {Día} {Mundial} de la {Bicicleta}}, section: Jalisco (Jun. 2020).
+I.~P. Vega, \href{https://udgtv.com/noticias/mas-de-100-km-de-ciclovias-en-guadalajara-motivo-para-celebrar-en-el-dia-mundial-de-la-bicicleta/169961}{Más de 100 km de ciclovías en {Guadalajara}, motivo para “celebrar” en el {Día} {Mundial} de la {Bicicleta}}, section: Jalisco (Jun. 2020).
 \newline\urlprefix\url{https://udgtv.com/noticias/mas-de-100-km-de-ciclovias-en-guadalajara-motivo-para-celebrar-en-el-dia-mundial-de-la-bicicleta/169961}
 
 \bibitem{jalisco_anuncia_nodate}
-G.~D.~E. Jalisco, \href{https://jalisco.gob.mx/prensa/noticias/160662}{Anuncia
-  {Enrique} {Alfaro} quinta etapa del programa {MiBici} con 660 nuevas
-  bicicletas públicas y 60 estaciones al oriente de la ciudad}.
+G.~D.~E. Jalisco, \href{https://jalisco.gob.mx/prensa/noticias/160662}{Anuncia {Enrique} {Alfaro} quinta etapa del programa {MiBici} con 660 nuevas bicicletas públicas y 60 estaciones al oriente de la ciudad}.
 \newline\urlprefix\url{https://jalisco.gob.mx/prensa/noticias/160662}
 
 \bibitem{noauthor_datos_nodate}
-\href{https://docs.google.com/spreadsheets/d/1fXJGPruV8Flzvb_fKoQ39YmqASXXfva8hfgyI80arR0/edit?usp=embed_facebook}{Datos
-  {Bici} {Blanca}}.
+\href{https://docs.google.com/spreadsheets/d/1fXJGPruV8Flzvb_fKoQ39YmqASXXfva8hfgyI80arR0/edit?usp=embed_facebook}{Datos {Bici} {Blanca}}.
 \newline\urlprefix\url{https://docs.google.com/spreadsheets/d/1fXJGPruV8Flzvb_fKoQ39YmqASXXfva8hfgyI80arR0/edit?usp=embed_facebook}
 
 \bibitem{iieg_mapa_nodate}
-IIEG, \href{https://iieg.gob.mx/siniestralimap/index.html}{Mapa
-  siniestralidad}.
+IIEG, \href{https://iieg.gob.mx/siniestralimap/index.html}{Mapa siniestralidad}.
 \newline\urlprefix\url{https://iieg.gob.mx/siniestralimap/index.html}
 
 \bibitem{jalisco_como_vamos_septima_2020}
-J.~C. Vamos,
-  \href{https://drive.google.com/file/d/1xhIhHRb0h0qxVbkOloTpz1knur-UmjAg/view?usp=embed_facebook}{Séptima
-  {Encuesta} de {Percepción} {Ciudadana} {Sobre} {Calidad} de {Vida} 2020.pdf}
-  (2020).
+J.~C. Vamos, \href{https://drive.google.com/file/d/1xhIhHRb0h0qxVbkOloTpz1knur-UmjAg/view?usp=embed_facebook}{Séptima {Encuesta} de {Percepción} {Ciudadana} {Sobre} {Calidad} de {Vida} 2020.pdf} (2020).
 \newline\urlprefix\url{https://drive.google.com/file/d/1xhIhHRb0h0qxVbkOloTpz1knur-UmjAg/view?usp=embed_facebook}
 
 \bibitem{iieg_cuadernillos_2020}
-IIEG, \href{https://iieg.gob.mx/ns/?page_id=21697}{Cuadernillos de Áreas
-  {Metropolitanas} – {IIEG}} (2020).
+IIEG, \href{https://iieg.gob.mx/ns/?page_id=21697}{Cuadernillos de Áreas {Metropolitanas} – {IIEG}} (2020).
 \newline\urlprefix\url{https://iieg.gob.mx/ns/?page_id=21697}
 
 \bibitem{Sumit2021}
-K.~Sumit, V.~Ross, K.~Brijs, G.~Wets, R.~A.~C. Ruiter,
-  \href{https://doi.org/10.1186/s12889-021-11899-y}{Risky motorcycle riding
-  behaviour among young riders in manipal, india}, BMC Public Health 21~(1)
-  (2021) 1954.
-\newblock \href {https://doi.org/10.1186/s12889-021-11899-y}
-  {\path{doi:10.1186/s12889-021-11899-y}}.
+K.~Sumit, V.~Ross, K.~Brijs, G.~Wets, R.~A.~C. Ruiter, \href{https://doi.org/10.1186/s12889-021-11899-y}{Risky motorcycle riding behaviour among young riders in manipal, india}, BMC Public Health 21~(1) (2021) 1954.
+\newblock \href {https://doi.org/10.1186/s12889-021-11899-y} {\path{doi:10.1186/s12889-021-11899-y}}.
 \newline\urlprefix\url{https://doi.org/10.1186/s12889-021-11899-y}
 
 \bibitem{ferster_mapping_2021}
-C.~Ferster, T.~Nelson, K.~Laberee, M.~Winters,
-  \href{https://www.sciencedirect.com/science/article/pii/S0143622821000047}{Mapping
-  bicycling exposure and safety risk using {Strava} {Metro}}, Applied Geography
-  127 (2021) 102388.
-\newblock \href {https://doi.org/10.1016/j.apgeog.2021.102388}
-  {\path{doi:10.1016/j.apgeog.2021.102388}}.
+C.~Ferster, T.~Nelson, K.~Laberee, M.~Winters, \href{https://www.sciencedirect.com/science/article/pii/S0143622821000047}{Mapping bicycling exposure and safety risk using {Strava} {Metro}}, Applied Geography 127 (2021) 102388.
+\newblock \href {https://doi.org/10.1016/j.apgeog.2021.102388} {\path{doi:10.1016/j.apgeog.2021.102388}}.
 \newline\urlprefix\url{https://www.sciencedirect.com/science/article/pii/S0143622821000047}
 
 \bibitem{kielhauser_identifying_2020}
-C.~Kielhauser, J.~S. Herrmann, B.~T. Adey,
-  \href{https://www.frontiersin.org/journals/sustainable-cities/articles/10.3389/frsc.2020.00021/full}{Identifying
-  {Changes} in {Bicycle} {Accident} {Trends} {Using} {GIS} and {Time} {Series}
-  {Information} in the {City} of {Zürich}}, Frontiers in Sustainable Cities 2
-  (May 2020).
-\newblock \href {https://doi.org/10.3389/frsc.2020.00021}
-  {\path{doi:10.3389/frsc.2020.00021}}.
+C.~Kielhauser, J.~S. Herrmann, B.~T. Adey, \href{https://www.frontiersin.org/journals/sustainable-cities/articles/10.3389/frsc.2020.00021/full}{Identifying {Changes} in {Bicycle} {Accident} {Trends} {Using} {GIS} and {Time} {Series} {Information} in the {City} of {Zürich}}, Frontiers in Sustainable Cities 2 (May 2020).
+\newblock \href {https://doi.org/10.3389/frsc.2020.00021} {\path{doi:10.3389/frsc.2020.00021}}.
 \newline\urlprefix\url{https://www.frontiersin.org/journals/sustainable-cities/articles/10.3389/frsc.2020.00021/full}
 
-\bibitem{noauthor_mibici_nodate}
-\href{https://www.mibici.net/es/datos-abiertos/}{{MiBici} {\textbar}{Datos}
-  abiertos}.
-\newline\urlprefix\url{https://www.mibici.net/es/datos-abiertos/}
-
 \bibitem{xue_integrating_2024}
-H.~Xue, P.~Guo, Y.~Li, J.~Ma,
-  \href{https://www.sciencedirect.com/science/article/pii/S0001457524000897}{Integrating
-  visual factors in crash rate analysis at {Intersections}: {An} {AutoML} and
-  {SHAP} approach towards cycling safety}, Accident Analysis \& Prevention 200
-  (2024) 107544.
-\newblock \href {https://doi.org/10.1016/j.aap.2024.107544}
-  {\path{doi:10.1016/j.aap.2024.107544}}.
+H.~Xue, P.~Guo, Y.~Li, J.~Ma, \href{https://www.sciencedirect.com/science/article/pii/S0001457524000897}{Integrating visual factors in crash rate analysis at {Intersections}: {An} {AutoML} and {SHAP} approach towards cycling safety}, Accident Analysis \& Prevention 200 (2024) 107544.
+\newblock \href {https://doi.org/10.1016/j.aap.2024.107544} {\path{doi:10.1016/j.aap.2024.107544}}.
 \newline\urlprefix\url{https://www.sciencedirect.com/science/article/pii/S0001457524000897}
 
 \bibitem{jaber_towards_2023}
-A.~Jaber, B.~Csonka, \href{https://www.mdpi.com/2313-576X/9/3/60}{Towards a
-  {Sustainable} and {Safe} {Future}: {Mapping} {Bike} {Accidents} in
-  {Urbanized} {Context}}, Safety 9~(3) (2023) 60.
-\newblock \href {https://doi.org/10.3390/safety9030060}
-  {\path{doi:10.3390/safety9030060}}.
+A.~Jaber, B.~Csonka, \href{https://www.mdpi.com/2313-576X/9/3/60}{Towards a {Sustainable} and {Safe} {Future}: {Mapping} {Bike} {Accidents} in {Urbanized} {Context}}, Safety 9~(3) (2023) 60.
+\newblock \href {https://doi.org/10.3390/safety9030060} {\path{doi:10.3390/safety9030060}}.
 \newline\urlprefix\url{https://www.mdpi.com/2313-576X/9/3/60}
 
 \bibitem{prencipe_injury_2025}
-L.~P. Prencipe, S.~De~Bartolomeo, L.~Caggiani, M.~Ottomanelli,
-  \href{https://www.sciencedirect.com/science/article/pii/S2214367X24002254}{An
-  injury severity-based methodology for assessing priority areas for shared
-  micromobility accident risk mitigation}, Travel Behaviour and Society 39
-  (2025) 100962.
-\newblock \href {https://doi.org/10.1016/j.tbs.2024.100962}
-  {\path{doi:10.1016/j.tbs.2024.100962}}.
+L.~P. Prencipe, S.~De~Bartolomeo, L.~Caggiani, M.~Ottomanelli, \href{https://www.sciencedirect.com/science/article/pii/S2214367X24002254}{An injury severity-based methodology for assessing priority areas for shared micromobility accident risk mitigation}, Travel Behaviour and Society 39 (2025) 100962.
+\newblock \href {https://doi.org/10.1016/j.tbs.2024.100962} {\path{doi:10.1016/j.tbs.2024.100962}}.
 \newline\urlprefix\url{https://www.sciencedirect.com/science/article/pii/S2214367X24002254}
 
+\bibitem{ali_advances_2024}
+Y.~Ali, F.~Hussain, M.~M. Haque, \href{https://www.sciencedirect.com/science/article/pii/S0001457523004256}{Advances, challenges, and future research needs in machine learning-based crash prediction models: {A} systematic review}, Accident Analysis \& Prevention 194 (2024) 107378.
+\newblock \href {https://doi.org/10.1016/j.aap.2023.107378} {\path{doi:10.1016/j.aap.2023.107378}}.
+\newline\urlprefix\url{https://www.sciencedirect.com/science/article/pii/S0001457523004256}
+
 \bibitem{schroter_determinants_2023}
-B.~Schröter, S.~Hantschel, S.~Huber, R.~Gerike,
-  \href{https://www.sciencedirect.com/science/article/pii/S0022437523001408}{Determinants
-  of bicycle crashes at urban signalized intersections}, Journal of Safety
-  Research 87 (2023) 132--142.
-\newblock \href {https://doi.org/10.1016/j.jsr.2023.09.011}
-  {\path{doi:10.1016/j.jsr.2023.09.011}}.
+B.~Schröter, S.~Hantschel, S.~Huber, R.~Gerike, \href{https://www.sciencedirect.com/science/article/pii/S0022437523001408}{Determinants of bicycle crashes at urban signalized intersections}, Journal of Safety Research 87 (2023) 132--142.
+\newblock \href {https://doi.org/10.1016/j.jsr.2023.09.011} {\path{doi:10.1016/j.jsr.2023.09.011}}.
 \newline\urlprefix\url{https://www.sciencedirect.com/science/article/pii/S0022437523001408}
 
 \bibitem{liu_mixed_2022}
-S.~Liu, Y.~Li, W.~D. Fan,
-  \href{https://www.sciencedirect.com/science/article/pii/S2046043021000769}{Mixed
-  logit model based diagnostic analysis of bicycle-vehicle crashes at daytime
-  and nighttime}, International Journal of Transportation Science and
-  Technology 11~(4) (2022) 738--751.
-\newblock \href {https://doi.org/10.1016/j.ijtst.2021.10.001}
-  {\path{doi:10.1016/j.ijtst.2021.10.001}}.
+S.~Liu, Y.~Li, W.~D. Fan, \href{https://www.sciencedirect.com/science/article/pii/S2046043021000769}{Mixed logit model based diagnostic analysis of bicycle-vehicle crashes at daytime and nighttime}, International Journal of Transportation Science and Technology 11~(4) (2022) 738--751.
+\newblock \href {https://doi.org/10.1016/j.ijtst.2021.10.001} {\path{doi:10.1016/j.ijtst.2021.10.001}}.
 \newline\urlprefix\url{https://www.sciencedirect.com/science/article/pii/S2046043021000769}
 
 \bibitem{scarano_injury_2023}
-A.~Scarano, M.~Rella~Riccardi, F.~Mauriello, C.~D'Agostino, N.~Pasquino,
-  A.~Montella,
-  \href{https://www.sciencedirect.com/science/article/pii/S0001457523003226}{Injury
-  severity prediction of cyclist crashes using random forests and random
-  parameters logit models}, Accident Analysis \& Prevention 192 (2023) 107275.
-\newblock \href {https://doi.org/10.1016/j.aap.2023.107275}
-  {\path{doi:10.1016/j.aap.2023.107275}}.
+A.~Scarano, M.~Rella~Riccardi, F.~Mauriello, C.~D'Agostino, N.~Pasquino, A.~Montella, \href{https://www.sciencedirect.com/science/article/pii/S0001457523003226}{Injury severity prediction of cyclist crashes using random forests and random parameters logit models}, Accident Analysis \& Prevention 192 (2023) 107275.
+\newblock \href {https://doi.org/10.1016/j.aap.2023.107275} {\path{doi:10.1016/j.aap.2023.107275}}.
 \newline\urlprefix\url{https://www.sciencedirect.com/science/article/pii/S0001457523003226}
 
-\bibitem{ali_advances_2024}
-Y.~Ali, F.~Hussain, M.~M. Haque,
-  \href{https://www.sciencedirect.com/science/article/pii/S0001457523004256}{Advances,
-  challenges, and future research needs in machine learning-based crash
-  prediction models: {A} systematic review}, Accident Analysis \& Prevention
-  194 (2024) 107378.
-\newblock \href {https://doi.org/10.1016/j.aap.2023.107378}
-  {\path{doi:10.1016/j.aap.2023.107378}}.
-\newline\urlprefix\url{https://www.sciencedirect.com/science/article/pii/S0001457523004256}
-
 \bibitem{paul_critical_2025}
-A.~B. Paul, N.~Gore, S.~Arkatkar, G.~Joshi, M.~M. Haque,
-  \href{https://www.sciencedirect.com/science/article/pii/S0386111225000019}{Critical
-  conflict probability: {A} novel risk measure for quantifying intensity of
-  crash risk at unsignalized intersections}, IATSS Research 49~(1) (2025)
-  49--59.
-\newblock \href {https://doi.org/10.1016/j.iatssr.2025.01.001}
-  {\path{doi:10.1016/j.iatssr.2025.01.001}}.
+A.~B. Paul, N.~Gore, S.~Arkatkar, G.~Joshi, M.~M. Haque, \href{https://www.sciencedirect.com/science/article/pii/S0386111225000019}{Critical conflict probability: {A} novel risk measure for quantifying intensity of crash risk at unsignalized intersections}, IATSS Research 49~(1) (2025) 49--59.
+\newblock \href {https://doi.org/10.1016/j.iatssr.2025.01.001} {\path{doi:10.1016/j.iatssr.2025.01.001}}.
 \newline\urlprefix\url{https://www.sciencedirect.com/science/article/pii/S0386111225000019}
 
+\bibitem{noauthor_mibici_nodate}
+\href{https://www.mibici.net/es/datos-abiertos/}{{MiBici} {\textbar}{Datos} abiertos}.
+\newline\urlprefix\url{https://www.mibici.net/es/datos-abiertos/}
+
 \bibitem{noauthor_explora_nodate}
-\href{https://www.google.com/intl/es-419/streetview/}{Explora {Street} {View} y
-  agrega tus propias imágenes en 360° a {Google} {Maps}.}
+\href{https://www.google.com/intl/es-419/streetview/}{Explora {Street} {View} y agrega tus propias imágenes en 360° a {Google} {Maps}.}
 \newline\urlprefix\url{https://www.google.com/intl/es-419/streetview/}
 
 \bibitem{noauthor_moovit_nodate}
-\href{https://moovitapp.com/insights/en/Moovit_Insights_Public_Transit_Index-countries}{Moovit
-  {Public} {Transit} {Index}}.
+\href{https://moovitapp.com/insights/en/Moovit_Insights_Public_Transit_Index-countries}{Moovit {Public} {Transit} {Index}}.
 \newline\urlprefix\url{https://moovitapp.com/insights/en/Moovit_Insights_Public_Transit_Index-countries}
 
 \bibitem{noauthor_general_nodate}
-\href{https://github.com/ralejandrobm/RAMCI-dynamic}{General ·
-  ralejandrobm/{RAMCI}-dynamic}.
+\href{https://github.com/ralejandrobm/RAMCI-dynamic}{General · ralejandrobm/{RAMCI}-dynamic}.
 \newline\urlprefix\url{https://github.com/ralejandrobm/RAMCI-dynamic}
 
 \bibitem{noauthor_general_nodate-1}
-\href{https://github.com/ralejandrobm/RAMCI-front}{General ·
-  ralejandrobm/{RAMCI}-front}.
+\href{https://github.com/ralejandrobm/RAMCI-front}{General · ralejandrobm/{RAMCI}-front}.
 \newline\urlprefix\url{https://github.com/ralejandrobm/RAMCI-front}
 
 \bibitem{wallentin_bicycle-bicycle_2016}
-G.~Wallentin, M.~Loidl,
-  \href{https://www.mdpi.com/2313-576X/2/2/14}{Bicycle-{Bicycle} {Accidents}
-  {Emerge} from {Encounters}: {An} {Agent}-{Based} {Approach}}, Safety 2~(2)
-  (2016) 14, number: 2 Publisher: Multidisciplinary Digital Publishing
-  Institute.
-\newblock \href {https://doi.org/10.3390/safety2020014}
-  {\path{doi:10.3390/safety2020014}}.
+G.~Wallentin, M.~Loidl, \href{https://www.mdpi.com/2313-576X/2/2/14}{Bicycle-{Bicycle} {Accidents} {Emerge} from {Encounters}: {An} {Agent}-{Based} {Approach}}, Safety 2~(2) (2016) 14, number: 2 Publisher: Multidisciplinary Digital Publishing Institute.
+\newblock \href {https://doi.org/10.3390/safety2020014} {\path{doi:10.3390/safety2020014}}.
 \newline\urlprefix\url{https://www.mdpi.com/2313-576X/2/2/14}
 
 \end{thebibliography}

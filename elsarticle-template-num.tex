@@ -91,6 +91,7 @@
 \usepackage{xcolor}
 %\usepackage{algorithm}
 \usepackage{listings}
+\usepackage{comment}
 
 \journal{International Journal of Transportation Science and Technology}
 
@@ -186,15 +187,28 @@
 %% \fntext[label3]{}
 
 
-
-
+\begin{comment}
+%Previous version
 \begin{abstract}
 %% Text of abstract
-To reduce the mobility carbon footprint in megacities, bicycles for short distances is one of the clean and healthy solution. However, the amount of registered accidents on the road between motorized vehicles and bicycles creates an important concern. Moreover, we present the case of the Guadalajara Metropolitan Area with more than 6 million population, 3 million vehicles, and in the past decade more than 120 km of bicycle lanes looking to provide safety to more than 126,000 bicycle users. To achieve this objective, this work presents three main contributions. First, a feature engineering strategy is developed to estimate cyclist flow variables, enriching the original accident dataset with exposure-related information. 
+To reduce the mobility carbon footprint in megacities, bicycles for short distances is one of the clean and healthy solution. However, the amount of registered accidents on the road between motorized vehicles and bicycles creates an important concern. Moreover, we present the case of the Guadalajara Metropolitan Area with more than 6 million population, 3 million vehicles, and in the past decade more than 120 km of bicycle lanes looking to provide safety to more than 126,000 bicycle users. To achieve this objective, this work presents three main contributions. 
+First, a feature engineering strategy is developed to estimate cyclist flow variables, enriching the original accident dataset with exposure-related information. 
 Second, a novel methodology is proposed that transforms the outputs of a machine learning algorithm into a rankable, severity-based process for classifying urban intersections using cyclist–vehicle accident data. 
 Third, an online platform is implemented to enable the georeferenced and dynamic identification of high-risk areas by interactively incorporating user-related, temporal, and vehicle-specific variables, 
 thereby supporting safety planning through an intuitive and easily interpretable interface.
 \end{abstract}
+\end{comment}
+
+
+\begin{abstract}
+%% Text of abstract
+\hl{Reducing the carbon footprint of urban mobility in megacities requires, among other strategies, promoting active transportation modes such as cycling. However, cyclist safety remains a critical challenge, particularly in urban areas where collisions between bicycles and motorized vehicles result in significant fatalities and injuries. In the Guadalajara Metropolitan Area (Mexico), approximately 23 cyclist deaths and 104 injuries are recorded annually, highlighting an urgent road safety concern in a city of over six million inhabitants.
+
+While prior studies have addressed cyclist risk through exposure estimation, georeferenced risk visualization, or binary classification models, these approaches are typically implemented in isolation. This study proposes a unified public decision-support framework that integrates exposure modeling, probabilistic risk estimation, and interactive geospatial visualization to classify urban intersections according to mortality risk in cyclist–vehicle collisions.
+
+By enabling cyclists to identify safer routes and supporting authorities in prioritizing infrastructure interventions, the proposed framework contributes to more efficient allocation of road safety resources and strengthens data-driven decision-making in urban mobility planning}
+\end{abstract}
+
 
 %%Graphical abstract
 %\begin{graphicalabstract}
@@ -211,7 +225,9 @@ thereby supporting safety planning through an intuitive and easily interpretable
 %% keywords here, in the form: keyword \sep keyword
 
 %% PACS codes here, in the form: \PACS code \sep code
-Cyclist-vehicle accident  \sep severity  \sep machine learning \sep online platform \sep methodology.
+%Cyclist-vehicle accident  \sep severity  \sep machine learning \sep online platform \sep methodology.
+\hl{Check the following keyboars:}
+Cyclist safety \sep Intersection risk modeling \sep Probabilistic classification \sep Decision-support systems \sep Urban mobility planning
 %% MSC codes here, in the form: \MSC code \sep code
 %% or \MSC[2008] code \sep code (2000 is the default)
 
@@ -223,11 +239,11 @@ Cyclist-vehicle accident  \sep severity  \sep machine learning \sep online platf
 
 %% main text
 \section{Introduction}
-\label{}
+\label{Changes}
 
-\hl{El objetivo principal de esta investigación es desarrollar un framework público de apoyo a la toma de decisiones en movilidad ciclista, el cual clasifica las intersecciones del Área Metropolitana de Guadalajara según el riesgo de mortalidad asociado a colisiones entre bicicletas y vehículos motorizados. Este framework permite identificar intersecciones de alto riesgo, facilitando tanto la planificación de rutas más seguras por parte de los ciclistas como la priorización de intervenciones por parte de las autoridades de movilidad y planeación urbana, contribuyendo así a una asignación más eficiente de los recursos destinados a mejorar la seguridad vial.}
+%\hl{El objetivo principal de esta investigación es desarrollar un framework público de apoyo a la toma de decisiones en movilidad ciclista, el cual clasifica las intersecciones del Área Metropolitana de Guadalajara según el riesgo de mortalidad asociado a colisiones entre bicicletas y vehículos motorizados. Este framework permite identificar intersecciones de alto riesgo, facilitando tanto la planificación de rutas más seguras por parte de los ciclistas como la priorización de intervenciones por parte de las autoridades de movilidad y planeación urbana, contribuyendo así a una asignación más eficiente de los recursos destinados a mejorar la seguridad vial.}
 
-\hl{La problemática es que en el Área Metropolitana de Guadalajara se registran aproximadamente 23 muertes y 104 personas lesionadas en accidentes que involucran bicicletas y vehículos motorizados, lo que evidencia un problema relevante de seguridad vial para los ciclistas en la región.}
+%\hl{La problemática es que en el Área Metropolitana de Guadalajara se registran aproximadamente 23 muertes y 104 personas lesionadas en accidentes que involucran bicicletas y vehículos motorizados, lo que evidencia un problema relevante de seguridad vial para los ciclistas en la región.}
 
 The World Health Organization declared in the Global Status Report on Road Safety 2023 that traffic accidents continue to be the leading cause of death worldwide among children and young people aged 5 to 29 \cite{who_global_2023}. Meanwhile, the Pan American Health Organization (PAHO) presented in its report on road safety status in the Americas region, published in June 2019, that the second leading cause of death among young adults aged 15 to 29 is attributed to traffic accidents \cite{pan_american_health_organization_status_2019}.The PAHO also stated that among the 13 middle-income countries where the number of traffic-related deaths increased, Mexico is included \cite{pan_american_health_organization_status_2019}. On the other hand, Mather \cite{mathers_updated_nodate} mentions that the trend in traffic accidents during the period 2016-2060 tends to decrease in high-income countries, however, it increases markedly in middle and low-income countries.
 
@@ -239,14 +255,31 @@ Thanks to the initiative of active groups, authorities in the Metropolitan Area 
 
 Although cycling infrastructures have proven to be effective in reducing mobility accidents for cyclists, especially when they utilize exclusive lanes that implement safety measures such as separating vehicles and cycling lanes with curbs \cite{mertens_built_2017}, they are not a definitive solution to the issue of cycling mobility accidents. Therefore, government, industry, and academia require greater efforts to ensure that both cycling lanes and roadways in the AMG provide the assurance of being a safe space for mobility accidents for the more than 126,000 citizens who use bicycles as their daily mode of transportation \cite{jalisco_como_vamos_septima_2020}\cite{iieg_cuadernillos_2020}.
 
-Of the three main types of cyclist mobility accident scenarios (single bicycle, bicycle-bicycle, and bicycle-car), encountering a motorized vehicle is the most dangerous for the cyclist's health \cite{Sumit2021}. In fact, with the aim of generating tools to safeguard the cyclist's safety, This work presents a dynamic framework for four-level classification of urban intersections based on cyclist–vehicle accident severity. The proposed framework is composed of a novel methodology for classifying intersections using machine learning algorithms and an online platform that dynamically displays the georeferenced classification, allowing interactive customization through user-related, temporal, and vehicle-specific variables. Through its implemented interactive platform the framework serves as an intuitive decision-support tool that enables governmental authorities to prioritize investments in cycling infrastructure while also assisting citizens in planning safer commuting routes.
+Of the three main types of cyclist mobility accident scenarios (single bicycle, bicycle-bicycle, and bicycle-car), encountering a motorized vehicle is the most dangerous for the cyclist's health \cite{Sumit2021}. 
+\hl{Consulting related work, we found that different authors have addressed cyclist safety from complementary but fragmented perspectives. Several studies emphasize the importance of incorporating cyclist exposure into geospatial analyses, demonstrating that the inclusion of flow-related variables substantially improves predictive performance} \cite{ferster_mapping_2021,kielhauser_identifying_2020,xue_integrating_2024}. 
+\hl{Others define alternative spatial aggregation units, such as grid cells or urban clusters, to identify spatial patterns of crash occurrence and severity} \cite{jaber_towards_2023,prencipe_injury_2025}. 
+\hl{In parallel, research on crash severity prediction has increasingly adopted probabilistic modeling approaches, highlighting the relevance of AUC-based validation and probability-driven risk differentiation rather than relying solely on discrete class labels} \cite{ali_advances_2024,schroter_determinants_2023,liu_mixed_2022,scarano_injury_2023,paul_critical_2025}. 
+\hl{Additionally, hotspot mapping and geospatial visualization techniques are commonly used to communicate risk patterns} \cite{ferster_mapping_2021,jaber_towards_2023,prencipe_injury_2025}. 
+\hl{Although these studies have evidently analyzed cyclist risk through exposure estimation, georeferenced visualization, or classification-based prediction models, these components are typically implemented in isolation. In contrast, we propose a unified public decision-support framework that integrates exposure modeling, probabilistic risk estimation, and interactive geospatial visualization to classify urban intersections according to mortality risk in cyclist–vehicle collisions. By operationalizing these elements within a publicly accessible platform, the proposed approach moves beyond purely analytical contributions and aims to generate actionable tools to safeguard cyclist safety and support infrastructure prioritization.}
+This work presents a dynamic framework for four-level classification of urban intersections based on cyclist–vehicle accident severity. The proposed framework is composed of a novel methodology for classifying intersections using machine learning algorithms and an online platform that dynamically displays the georeferenced classification, allowing interactive customization through user-related, temporal, and vehicle-specific variables. Through its implemented interactive platform the framework serves as an intuitive decision-support tool that enables governmental authorities to prioritize investments in cycling infrastructure while also assisting citizens in planning safer commuting routes.
 
 The proposed approach focuses on learning calibrated probability outputs from machine learning models trained on infrastructure-related, temporal, user-related, and vehicle-related variables, rather than producing direct binary decisions of accident severity (fatal vs. non-fatal). These predicted probabilities are subsequently used to construct a logically ordered ranking, enabling the transformation of model outputs into four distinct risk levels. Accordingly, model evaluation prioritizes ranking-oriented performance metrics, specifically the Area Under the ROC Curve (AUC) and the Matthews Correlation Coefficient (MCC), instead of accuracy-based measures. Importantly, the dataset is divided into two subsets for training and validation. The validation set is transformed into the same feature space used by the online platform in order to verify the performance of the trained algorithms under real-world operational conditions.
 
 
 As introductory highlights, the neural network and logistic regression models achieved the best performance among six evaluated machine learning algorithms: Naïve Bayes, Random Forest, Gradient Boosting, Support Vector Machine, neural network, and logistic regression, using a selected subset of variables that includes  \textit{hourly\_range}, \textit{age\_range}, \textit{bicycle\_routes}, \textit{vehicle\_type}, \textit{speed\_limit}, \textit{lanes}, \textit{day}, and \textit{mont}.
 
+\hl{This article provides three main contributions: }
+\begin{itemize}
+    \item A feature engineering strategy is developed to estimate cyclist flow variables, enriching accident records with exposure-related contextual information.
+    \item Second, a probabilistic machine learning methodology is introduced to transform predicted probabilities into a four-level, severity-based ranking of intersections, enabling consistent and interpretable risk stratification. 
+    \item Third, an open-access online platform is implemented to dynamically visualize high-risk intersections through an interactive map that incorporates temporal, user-related, and vehicle-specific variables.
+\end{itemize}
+
+
 The present work is structured as follows: Section 2 conducts a literature review focused In identifying related studies on methodologies and platforms that classify risk areas or locations for cyclist–vehicle accidents in a georeferenced manner. Section 3, Materials and Methods, describes the feature engineering process used to construct the cyclist–vehicle accident dataset, the methodology employed for intersection severity classification, and the implementation of the georeferenced dynamic platform designed to identify high-risk areas and support safety-oriented decision-making. Section 4 reveals the results and discusses the outstanding findings. Finally, in Section 5, the most important findings of the work are highlighted. 
+
+\begin{comment}
+    
 
 \section{Related Works}
 
@@ -263,9 +296,38 @@ Previous studies adopt different methodological strategies to assess cycling saf
 
 According to \cite{ali_advances_2024}, many studies adopt probabilistic prediction as a central objective, while validating model performance using metrics such as the Area Under the ROC Curve (AUC), rather than focusing solely on the accuracy of discrete class labels. This probabilistic perspective allows for a more nuanced distinction between different levels of risk in traffic safety analyses. In the present study, where severity is predicted, probability estimates are used instead of class labels to define four classification levels of intersection risk, similar to the approach described by \cite{paul_critical_2025}, which generates vehicular accident risk levels based on predicted probabilities. This probabilistic framework enables a calibrated and interpretable stratification of intersection risk, providing stronger support for decision-making than traditional label-based classification approaches.
 
-Among the reviewed studies \cite{ferster_mapping_2021, jaber_towards_2023, prencipe_injury_2025}, geospatial visualizations, such as hotspot maps or grid-based representations, are explicitly included to illustrate cycling risk across their study areas. However, none of these studies are integrated with an online platform; in contrast, the present work offers a publicly accessible tool that allows residents of the Guadalajara metropolitan area to easily explore and interpret cycling safety data.
+Among the reviewed studies \cite{ferster_mapping_2021, jaber_towards_2023, prencipe_injury_2025}, geospatial visualizations, such as hotspot maps or grid-based representations, are explicitly included to illustrate cycling risk across their study areas. 
+%However, none of these studies are integrated with an online platform; in contrast, the present work offers a publicly accessible tool that allows residents of the Guadalajara metropolitan area to easily explore and interpret cycling safety data.
+\hl{While prior studies have independently addressed cyclist exposure estimation, geospatial risk visualization, and probabilistic prediction through binary classification models, these components have rarely been operationalized within a single, coherent system. The present research bridges this gap by integrating them into a unified decision-support framework that provides a publicly accessible and interactive risk map, explicitly designed to assist both cyclists and mobility authorities in data-driven safety planning.}
+\hl{In addition, the tool, implemented with this framework, allows residents of the Guadalajara metropolitan area to easily explore and interpret cycling safety data.}
+%\hl{Si bien la generación de exposición ciclista a partir de rutas con origen y destino, la visualización georreferenciada del riesgo mediante mapas y la estimación de probabilidades utilizando algoritmos de clasificación binaria han sido utilizadas previamente en diferentes estudios, la contribución de la presente investigación consiste en integrar estas características en un framework unificado que provee un mapa interactivo público de fácil interpretación, dirigido tanto a la comunidad ciclista como a las autoridades responsables de la toma de decisiones en movilidad ciclista.}
+\end{comment}
 
-\hl{Si bien la generación de exposición ciclista a partir de rutas con origen y destino, la visualización georreferenciada del riesgo mediante mapas y la estimación de probabilidades utilizando algoritmos de clasificación binaria han sido utilizadas previamente en diferentes estudios, la contribución de la presente investigación consiste en integrar estas características en un framework unificado que provee un mapa interactivo público de fácil interpretación, dirigido tanto a la comunidad ciclista como a las autoridades responsables de la toma de decisiones en movilidad ciclista.}
+\section{\hl{Related Works}}
+This section reviews the literature along four complementary dimensions relevant to cyclist safety modeling. First, it examines approaches for estimating cyclist exposure, with particular attention to flow reconstruction from mobility data sources. Second, it discusses the spatial units adopted in geospatial crash analyses, highlighting how different aggregation strategies influence risk representation. Third, it reviews methodological advances in crash severity prediction, emphasizing probabilistic modeling frameworks and evaluation metrics. Finally, it analyzes the extent to which existing studies move beyond analytical modeling toward operational and publicly accessible decision-support systems. This structured review establishes the conceptual and methodological foundations upon which the proposed framework is developed.
+\subsection{Cyclist Exposure Modeling}
+
+Geospatial analyses of cycling safety consistently identify cyclist exposure, particularly bicycle flow volume, as a fundamental determinant of crash risk. Incorporating exposure-related variables has been shown to substantially improve predictive accuracy and model robustness in real-world settings \cite{ferster_mapping_2021,kielhauser_identifying_2020}. However, estimating cyclist exposure remains methodologically challenging, especially in urban environments with limited sensing infrastructure.
+
+Existing studies derive exposure data from different sources. Crowdsourced mobility platforms, such as Strava, provide high-resolution activity traces but may represent only a subset of cyclists \cite{ferster_mapping_2021}. In contrast, governmental monitoring systems rely on permanent counting stations that offer structured but spatially limited observations \cite{kielhauser_identifying_2020}. Similar to \cite{xue_integrating_2024}, the present study reconstructs likely cyclist trajectories by connecting origin–destination pairs and estimating plausible routes across the urban network. In our case, cyclist flow is derived from publicly available data from the MiBici bike-sharing system \cite{noauthor_mibici_nodate}, requiring aggregation and preprocessing to obtain exposure indicators at the intersection level.
+
+\subsection{Spatial Units and Geospatial Risk Representation}
+
+The definition of spatial units plays a critical role in geospatial crash analysis. Prior studies have adopted regular grid cells \cite{jaber_towards_2023}, geofenced urban clusters \cite{prencipe_injury_2025}, road segments \cite{ferster_mapping_2021}, or administrative districts \cite{kielhauser_identifying_2020} as primary analytical units. Each approach balances spatial granularity and interpretability differently.
+
+In contrast to grid- or district-based aggregation strategies, and similar to \cite{schroter_determinants_2023}, the present study adopts intersections as the primary spatial unit. Intersections capture localized conflict points between cyclists and motor vehicles while enabling integration of contextual variables. To account for spatial influence beyond the exact node location, cyclist flow and historical crash data are aggregated within a 200-meter buffer surrounding each intersection.
+
+\subsection{Crash Severity Prediction and Probabilistic Modeling}
+
+Beyond descriptive hotspot mapping, recent research increasingly focuses on modeling crash severity and understanding the influence of contextual predictors. Studies such as \cite{schroter_determinants_2023}, \cite{liu_mixed_2022}, and \cite{scarano_injury_2023} examine how roadway, temporal, and demographic variables affect injury severity under different traffic conditions. Other works identify high-risk areas based on severity outcomes using spatial clustering or predictive modeling techniques \cite{jaber_towards_2023,prencipe_injury_2025}.
+
+Methodologically, many contemporary studies adopt probabilistic prediction frameworks and evaluate performance using threshold-independent metrics such as the Area Under the ROC Curve (AUC) \cite{ali_advances_2024}. This probabilistic perspective enables risk differentiation beyond binary class labels. Following a similar rationale to \cite{paul_critical_2025}, the present study uses predicted probabilities rather than discrete outputs to define four ordered levels of intersection mortality risk. This approach supports calibrated and interpretable risk stratification, particularly under class imbalance conditions.
+
+\subsection{From Analytical Models to Operational Decision-Support Systems}
+
+Although prior studies have independently addressed cyclist exposure estimation, geospatial risk visualization, and probabilistic crash prediction, these components are typically developed in isolation. Geospatial visualizations such as hotspot maps or grid-based representations are frequently included to communicate spatial patterns of cycling risk \cite{ferster_mapping_2021,jaber_towards_2023,prencipe_injury_2025}; however, they often remain analytical outputs rather than operational tools.
+
+The present research bridges this gap by integrating exposure modeling, probabilistic severity estimation, and interactive geospatial visualization into a unified decision-support framework. The proposed system is fully operationalized through a publicly accessible platform that enables residents of the Guadalajara Metropolitan Area to dynamically explore intersection-level risk. By transforming model outputs into an intuitive and interpretable interactive map, the framework supports both cyclists and mobility authorities in data-driven safety planning and infrastructure prioritization.
 
 \section{Materials and Methods}
 The construction and implementation of the proposed framework consist of three main phases : first phase is, the generation of the database for training machine learning algorithms; the second phase is the methodology to train machine learning algorithms and classify intersection base on cyclist-vehicle accident results; and finally, the implementation of the online dynamic platform to plot the accident severity classification in a georeferenced manner.
