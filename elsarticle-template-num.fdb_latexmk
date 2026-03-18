@@ -1,14 +1,14 @@
 # Fdb version 4
-["bibtex elsarticle-template-num"] 1773278102.94115 "elsarticle-template-num.aux" "elsarticle-template-num.bbl" "elsarticle-template-num" 1773278104.28512 0
+["bibtex elsarticle-template-num"] 1773865111.5672 "elsarticle-template-num.aux" "elsarticle-template-num.bbl" "elsarticle-template-num" 1773866306.23698 0
   "./bib.bib" 1773260565.97349 38965 83bf960a31a8c0b4ef621c895808c7d3 ""
   "/usr/local/texlive/2026/texmf-dist/bibtex/bst/elsarticle/elsarticle-num.bst" 1767996394 29462 dde4ec39bf78fded04ea32048bba0a74 ""
-  "elsarticle-template-num.aux" 1773278104.03252 7422 1aa8fe34cfcf9604533cac39e860866b "pdflatex"
+  "elsarticle-template-num.aux" 1773866306.00668 7418 e08f8fee44667141e6821eae6ea11aa5 "pdflatex"
   (generated)
   "elsarticle-template-num.bbl"
   "elsarticle-template-num.blg"
   (rewritten before read)
-["pdflatex"] 1773278103.03271 "/Users/clopezp/Library/CloudStorage/GoogleDrive-clopezp@up.edu.mx/My Drive/research/colaboracion/ramonAlejandro/bicycle/RAMCI-paper/elsarticle-template-num.tex" "elsarticle-template-num.pdf" "elsarticle-template-num" 1773278104.28524 0
-  "/Users/clopezp/Library/CloudStorage/GoogleDrive-clopezp@up.edu.mx/My Drive/research/colaboracion/ramonAlejandro/bicycle/RAMCI-paper/elsarticle-template-num.tex" 1773278101.52717 62040 2988326415597414f565e114f8aa0fb5 ""
+["pdflatex"] 1773866304.99258 "/Users/clopezp/Library/CloudStorage/GoogleDrive-clopezp@up.edu.mx/My Drive/research/colaboracion/ramonAlejandro/bicycle/RAMCI-paper/elsarticle-template-num.tex" "elsarticle-template-num.pdf" "elsarticle-template-num" 1773866306.23711 0
+  "/Users/clopezp/Library/CloudStorage/GoogleDrive-clopezp@up.edu.mx/My Drive/research/colaboracion/ramonAlejandro/bicycle/RAMCI-paper/elsarticle-template-num.tex" 1773866304.7841 62300 88ad87dbba316fa83194191c4722de5c ""
   "/usr/local/texlive/2026/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc" 1136849721 2971 def0b6c1f0b107b3b936def894055589 ""
   "/usr/local/texlive/2026/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc" 1136849721 2900 1537cc8184ad1792082cd229ecc269f4 ""
   "/usr/local/texlive/2026/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
@@ -131,10 +131,10 @@
   "Dinamico.PNG" 1773260565.97172 1155703 1f28714d2631984542ef871edc7d5936 ""
   "calor.PNG" 1773260565.97426 967827 f12d9d4d191b9dd55f236a43ba5e9db1 ""
   "ciclistas.PNG" 1773260565.97487 876094 fc4aaf811b07b8ea43ee4bb53632c8f5 ""
-  "elsarticle-template-num.aux" 1773278104.03252 7422 1aa8fe34cfcf9604533cac39e860866b "pdflatex"
-  "elsarticle-template-num.bbl" 1773278103.03066 10368 087e3bcc36806fc38d8ddc8bdcf8f7b8 "bibtex elsarticle-template-num"
-  "elsarticle-template-num.spl" 1773278103.18157 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
-  "elsarticle-template-num.tex" 1773278101.52717 62040 2988326415597414f565e114f8aa0fb5 ""
+  "elsarticle-template-num.aux" 1773866306.00668 7418 e08f8fee44667141e6821eae6ea11aa5 "pdflatex"
+  "elsarticle-template-num.bbl" 1773865111.66538 10368 087e3bcc36806fc38d8ddc8bdcf8f7b8 "bibtex elsarticle-template-num"
+  "elsarticle-template-num.spl" 1773866305.14836 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
+  "elsarticle-template-num.tex" 1773866304.7841 62300 88ad87dbba316fa83194191c4722de5c ""
   "nomogram.png" 1773260565.98758 63251 cff9b3a44723348ca5314457535eea94 ""
   "rutas.PNG" 1773260565.98848 834459 f52db83e3b8f9b1f271d8555b2f22925 ""
   (generated)
