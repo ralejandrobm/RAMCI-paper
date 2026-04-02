@@ -1,7 +1,9 @@
-This is BibTeX, Version 0.99e (TeX Live 2026)
+This is BibTeX, Version 0.99e
 Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
 The top-level auxiliary file: elsarticle-template-num.aux
+Reallocating 'name_of_file' (item size: 1) to 15 items.
 The style file: elsarticle-num.bst
+Reallocating 'name_of_file' (item size: 1) to 4 items.
 Database file #1: bib.bib
 Warning--empty journal in mathers_updated_nodate
 Warning--empty year in mathers_updated_nodate
@@ -13,45 +15,45 @@ Warning--empty year in noauthor_explora_nodate
 Warning--empty year in noauthor_moovit_nodate
 Warning--empty year in noauthor_general_nodate
 Warning--empty year in noauthor_general_nodate-1
-You've used 27 entries,
+You've used 29 entries,
             2952 wiz_defined-function locations,
-            840 strings with 11791 characters,
-and the built_in function-call counts, 7361 in all, are:
-= -- 672
-> -- 228
+            855 strings with 12375 characters,
+and the built_in function-call counts, 8028 in all, are:
+= -- 741
+> -- 245
 < -- 0
-+ -- 94
-- -- 67
-* -- 599
-:= -- 1008
-add.period$ -- 40
-call.type$ -- 27
-change.case$ -- 29
++ -- 101
+- -- 72
+* -- 663
+:= -- 1100
+add.period$ -- 44
+call.type$ -- 29
+change.case$ -- 31
 chr.to.int$ -- 0
-cite$ -- 37
-duplicate$ -- 245
-empty$ -- 884
-format.name$ -- 80
-if$ -- 1920
+cite$ -- 39
+duplicate$ -- 265
+empty$ -- 958
+format.name$ -- 87
+if$ -- 2091
 int.to.chr$ -- 0
-int.to.str$ -- 27
-missing$ -- 16
-newline$ -- 128
-num.names$ -- 21
-pop$ -- 194
+int.to.str$ -- 29
+missing$ -- 18
+newline$ -- 138
+num.names$ -- 23
+pop$ -- 204
 preamble$ -- 1
 purify$ -- 0
 quote$ -- 0
-skip$ -- 441
+skip$ -- 477
 stack$ -- 0
-substring$ -- 208
-swap$ -- 69
+substring$ -- 241
+swap$ -- 77
 text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
 type$ -- 0
 warning$ -- 10
-while$ -- 37
-width$ -- 29
-write$ -- 250
+while$ -- 41
+width$ -- 31
+write$ -- 272
 (There were 10 warnings)
