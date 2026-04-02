@@ -198,6 +198,16 @@ A.~Agheli, K.~Aghabayk,
   {\path{doi:10.1016/j.aap.2024.107896}}.
 \newline\urlprefix\url{https://www.sciencedirect.com/science/article/pii/S000145752400441X}
 
+\bibitem{feizizadeh_gis_2025}
+B.~Feizizadeh, D.~Omarzadeh,
+  \href{https://doi.org/10.1080/19475683.2025.2453550}{A {GIS} based
+  spatiotemporal modelling approach for cycling risk mapping using
+  crowd-sourced sensor data}, Annals of GIS 31~(2) (2025) 333--351, \_eprint:
+  https://doi.org/10.1080/19475683.2025.2453550.
+\newblock \href {https://doi.org/10.1080/19475683.2025.2453550}
+  {\path{doi:10.1080/19475683.2025.2453550}}.
+\newline\urlprefix\url{https://doi.org/10.1080/19475683.2025.2453550}
+
 \bibitem{noauthor_explora_nodate}
 \href{https://www.google.com/intl/es-419/streetview/}{Explora {Street} {View} y
   agrega tus propias imágenes en 360° a {Google} {Maps}.}
