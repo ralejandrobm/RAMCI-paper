@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.29 (MiKTeX 26.2) (preloaded format=pdflatex 2026.3.9)  2 APR 2026 17:07
+This is pdfTeX, Version 3.141592653-2.6-1.40.29 (MiKTeX 26.2) (preloaded format=pdflatex 2026.3.9)  3 APR 2026 16:15
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -461,7 +461,7 @@ Overfull \hbox (12.6003pt too wide) in paragraph at lines 357--358
  []
 
 [8] [9] [10]
-<rutas.PNG, id=53, 675.27281pt x 383.93437pt>
+<rutas.PNG, id=46, 675.27281pt x 383.93437pt>
 File: rutas.PNG Graphic file (type png)
 <use rutas.PNG>
 Package pdftex.def Info: rutas.PNG  used on input line 420.
@@ -470,7 +470,7 @@ Package pdftex.def Info: rutas.PNG  used on input line 420.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-<calor.PNG, id=55, 679.78969pt x 376.40625pt>
+<calor.PNG, id=48, 679.78969pt x 376.40625pt>
 File: calor.PNG Graphic file (type png)
 <use calor.PNG>
 Package pdftex.def Info: calor.PNG  used on input line 427.
@@ -478,7 +478,7 @@ Package pdftex.def Info: calor.PNG  used on input line 427.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-<ciclistas.PNG, id=56, 648.17157pt x 364.36125pt>
+<ciclistas.PNG, id=49, 648.17157pt x 364.36125pt>
 File: ciclistas.PNG Graphic file (type png)
 <use ciclistas.PNG>
 Package pdftex.def Info: ciclistas.PNG  used on input line 434.
@@ -486,7 +486,10 @@ Package pdftex.def Info: ciclistas.PNG  used on input line 434.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[11] [12 <./rutas.PNG> <./calor.PNG>] [13 <./ciclistas.PNG>] [14] [15] [16]
+[11]
+Overfull \vbox (11.18846pt too high) has occurred while \output is active []
+
+ [12 <./rutas.PNG> <./calor.PNG>] [13 <./ciclistas.PNG>] [14] [15] [16]
 <nomogram.png, id=80, 746.79pt x 422.07687pt>
 File: nomogram.png Graphic file (type png)
 <use nomogram.png>
@@ -496,60 +499,75 @@ Package pdftex.def Info: nomogram.png  used on input line 526.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[17]
-<Dinamico.PNG, id=84, 912.40875pt x 394.97563pt>
+[17] [18 <./nomogram.png>]
+<Dinamico.PNG, id=88, 912.40875pt x 394.97563pt>
 File: Dinamico.PNG Graphic file (type png)
 <use Dinamico.PNG>
 Package pdftex.def Info: Dinamico.PNG  used on input line 545.
 (pdftex.def)             Requested size: 390.0pt x 168.8237pt.
- [18 <./nomogram.png>] [19 <./Dinamico.PNG>] (elsarticle-template-num.bbl [20] [21] [22]
+ [19 <./Dinamico.PNG>] (elsarticle-template-num.bbl [20] [21] [22]
 Underfull \hbox (badness 3701) in paragraph at lines 157--165
 []\T1/cmr/m/n/12 A. Scarano, M. Rella Ric-cardi, F. Mau-riello, C. D'Agostino,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 202--210
+Underfull \hbox (badness 6708) in paragraph at lines 177--184
+[]\T1/cmr/m/n/12 Z. S. Ven-ter, V. Gun-der-sen, S. L. Scott, D. N. Bar-ton,
+ []
+
+
+Underfull \hbox (badness 5533) in paragraph at lines 177--184
+\T1/cmr/m/n/12 Bias and pre-ci-sion of crowd-sourced recre-ational ac-tiv-ity data
+ []
+
+
+Underfull \hbox (badness 1009) in paragraph at lines 177--184
+\T1/cmr/m/n/12 from Strava, Land-scape and Ur-ban Plan-ning 232 (2023) 104686.
+ []
+
+[23]
+Underfull \hbox (badness 10000) in paragraph at lines 211--219
 []\T1/cmr/m/n/12 B. Feiz-izadeh, D. Omarzadeh, A GIS based spa-tiotem-po-
  []
 
 
-Underfull \hbox (badness 3343) in paragraph at lines 202--210
+Underfull \hbox (badness 3343) in paragraph at lines 211--219
 \T1/cmr/m/n/12 ral mod-elling ap-proach for cy-cling risk map-ping us-ing crowd-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 202--210
+Underfull \hbox (badness 10000) in paragraph at lines 211--219
 \T1/cmr/m/n/12 sourced sen-sor data, An-nals of GIS 31 (2) (2025) 333--
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 202--210
+Underfull \hbox (badness 10000) in paragraph at lines 211--219
 \T1/cmr/m/n/12 351, _eprint: https://doi.org/10.1080/19475683.2025.2453550.
  []
 
-[23]
-Underfull \hbox (badness 1406) in paragraph at lines 232--240
+[24]
+Underfull \hbox (badness 1406) in paragraph at lines 255--263
 \T1/cmr/m/n/12 ber: 2 Pub-lisher: Mul-ti-dis-ci-plinary Dig-i-tal Pub-lish-ing In-sti-tute.
  []
 
-) [24] (elsarticle-template-num.aux)
+) [25] (elsarticle-template-num.aux)
  ***********
 LaTeX2e <2025-11-01>
 L3 programming layer <2026-01-19>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 9105 strings out of 467867
- 138380 string characters out of 5428393
- 562661 words of memory out of 5000000
- 37838 multiletter control sequences out of 15000+600000
+ 9114 strings out of 467867
+ 138635 string characters out of 5428393
+ 561709 words of memory out of 5000000
+ 37847 multiletter control sequences out of 15000+600000
  642769 words of font info for 80 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  72i,9n,79p,1610b,1022s stack positions out of 10000i,1000n,20000p,200000b,200000s
  <C:\Users\rbriseno\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecit1200.pk> <C:\Users\rbriseno\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ectt1200.pk> <C:\Users\rbriseno\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1200.pk> <C:\Users\rbriseno\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecti1200.pk> <C:\Users\rbriseno\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ectt1000.pk> <C:\Users\rbriseno\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1000.pk> <C:\Users\rbriseno\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1200.pk> <C:\Users\rbriseno\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecti1000.pk> <C:\Users\rbriseno\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecti0700.pk> <C:\Users\rbriseno\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm0800.pk> <C:\Users\rbriseno\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1200.pk> <C:\Users\rbriseno\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1728.pk><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr6.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy7.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy8.pfb>
-Output written on elsarticle-template-num.pdf (24 pages, 3658461 bytes).
+Output written on elsarticle-template-num.pdf (25 pages, 3660201 bytes).
 PDF statistics:
- 640 PDF objects out of 1000 (max. 8388607)
+ 644 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  26 words of extra memory for PDF output out of 10000 (max. 10000000)
 

@@ -173,6 +173,15 @@ A.~B. Paul, N.~Gore, S.~Arkatkar, G.~Joshi, M.~M. Haque,
   {\path{doi:10.1016/j.iatssr.2025.01.001}}.
 \newline\urlprefix\url{https://www.sciencedirect.com/science/article/pii/S0386111225000019}
 
+\bibitem{venter_bias_2023}
+Z.~S. Venter, V.~Gundersen, S.~L. Scott, D.~N. Barton,
+  \href{https://www.sciencedirect.com/science/article/pii/S0169204623000051}{Bias
+  and precision of crowdsourced recreational activity data from {Strava}},
+  Landscape and Urban Planning 232 (2023) 104686.
+\newblock \href {https://doi.org/10.1016/j.landurbplan.2023.104686}
+  {\path{doi:10.1016/j.landurbplan.2023.104686}}.
+\newline\urlprefix\url{https://www.sciencedirect.com/science/article/pii/S0169204623000051}
+
 \bibitem{noauthor_mibici_nodate}
 \href{https://www.mibici.net/es/datos-abiertos/}{{MiBici} {\textbar}{Datos}
   abiertos}.
@@ -207,6 +216,20 @@ B.~Feizizadeh, D.~Omarzadeh,
 \newblock \href {https://doi.org/10.1080/19475683.2025.2453550}
   {\path{doi:10.1080/19475683.2025.2453550}}.
 \newline\urlprefix\url{https://doi.org/10.1080/19475683.2025.2453550}
+
+\bibitem{gupta_development_2023}
+S.~Gupta, S.~Suman, S.~Kumar~Sharma, P.~K. Garg, S.~K. Ghosh,
+  \href{https://www.sciencedirect.com/science/article/pii/S2214785323043523}{Development
+  of web {GIS} based accident information system for safe and sustainable
+  transport}, Materials Today: Proceedings (Aug. 2023).
+\newblock \href {https://doi.org/10.1016/j.matpr.2023.08.098}
+  {\path{doi:10.1016/j.matpr.2023.08.098}}.
+\newline\urlprefix\url{https://www.sciencedirect.com/science/article/pii/S2214785323043523}
+
+\bibitem{francePlatform_new_2026}
+\href{https://global-cycling-safety.org/en/2026/01/france-bicycle-accident-data-visualization-platform/}{New
+  interactive platform analyzes bicycle accidents in {France}} (Jan. 2026).
+\newline\urlprefix\url{https://global-cycling-safety.org/en/2026/01/france-bicycle-accident-data-visualization-platform/}
 
 \bibitem{noauthor_explora_nodate}
 \href{https://www.google.com/intl/es-419/streetview/}{Explora {Street} {View} y
